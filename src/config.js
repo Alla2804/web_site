@@ -1,1 +1,1 @@
-export const host = "http://skipkris7.beget.tech";
+export const host = "http://creatingws.beget.tech";

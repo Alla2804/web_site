@@ -1,4 +1,4 @@
 <?php
-  $mysqli = new mysqli('localhost','skipkris7_lern','SQLstudyFront201','skipkris7_lern');
+  $mysqli = new mysqli('localhost','creatingws_fond','cDffl6t*','creatingws_fond');
   // 'localhost'
 ?>
